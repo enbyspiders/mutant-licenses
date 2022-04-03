@@ -5,7 +5,7 @@ A curated list of copy(far)left, ethical and queered open source software licens
 
 This is still a work in progress. In the future I'd also like to include a section for Codes of Conduct.
 
-Name inspired by the hot [Mutant Standard emoji set](mutant.tech/) by [dzuk](https://dzuk.zone/).
+Name inspired by the hot [Mutant Standard emoji set](https://mutant.tech/) by [dzuk](https://dzuk.zone/).
 
 **Further reading:**
 

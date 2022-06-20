@@ -1,5 +1,5 @@
 # 🦠 Mutant Licenses
-A curated list of copy(far)left, ethical and queered open source software licenses.
+A curated list of copyleft, ethical and queered open source software licenses.
 
 ## Info
 
@@ -24,6 +24,8 @@ Name inspired by the hot [Mutant Standard emoji set](https://mutant.tech/) by [d
 * ⚗️ [[ACAB] ACAB License](https://github.com/jgrey4296/acab/blob/main/LICENSE) - No Law Enforcement, Carceral Institutions, or Immigration enforcement entities may use the work or products of the work. For any reason, be it for simulation, production of propaganda, or otherwise.
 
 * ⚗️ [Anti-996 License](https://github.com/996icu/996.ICU#license) - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working. A "996" work schedule refers to an unofficial work schedule (9 a.m.–9 p.m., 6 days per week).
+
+* 🌶️ [[ACSL] Anti-capitalist Software License](https://anticapitalist.software/) - The Anti-Capitalist Software License (ACSL) is a software license towards a world beyond capitalism. This license exists to release software that empowers individuals, collectives, worker-owned cooperatives, and nonprofits, while denying usage to those that exploit labor for profit. 
 
 * 🌶️ [Atmosphere Software License](https://www.open-austin.org/atmosphere-license/about/index.html) - The Atmosphere Licenses are open source, copyleft software licenses with fossil fuel divestment provisions. 
 
